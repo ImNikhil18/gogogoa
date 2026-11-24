@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "Parlapalli Brothers",
+    "subtitle": "4 Brothers, Endless Memories",
+    "images": [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=1920&h=1080&fit=crop",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1920&h=1080&fit=crop"
+    ]
+  },
+  "sections": [
+    {
+      "id": "beaches",
+      "title": "Beach Paradise",
+      "description": "Golden sands, crystal-clear waters, and endless waves await us at Goa's most beautiful beaches. From the bustling Calangute to the serene Anjuna, each beach has its own unique charm and story to tell.",
+      "tagline": "Where the ocean meets our souls",
+      "images": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop"
+      ],
+      "layout": "carousel",
+      "animation": "fade-up"
+    },
+    {
+      "id": "churches",
+      "title": "Old Goa Heritage",
+      "description": "Step back in time at the historic churches of Old Goa. The Basilica of Bom Jesus and Se Cathedral stand as magnificent testaments to Goa's rich Portuguese heritage and spiritual significance.",
+      "tagline": "Echoes of history and faith",
+      "images": [
+        "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=800&h=600&fit=crop"
+      ],
+      "layout": "carousel",
+      "animation": "slide-left"
+    },
+    {
+      "id": "waterfalls",
+      "title": "Nature's Wonders",
+      "description": "Discover the breathtaking waterfalls hidden in Goa's lush green forests. Dudhsagar Falls, with its milky white waters cascading down the cliffs, is a natural spectacle that left us in awe.",
+      "tagline": "Where nature's power meets peace",
+      "images": [
+        "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop"
+      ],
+      "layout": "carousel",
+      "animation": "fade-up"
+    },
+    {
+      "id": "nightlife",
+      "title": "Vibrant Nights",
+      "description": "Experience Goa's legendary nightlife with beach parties, live music, and dancing under the stars. From the energetic clubs to the laid-back beach shacks, the nights in Goa are unforgettable.",
+      "tagline": "Where every night is a celebration",
+      "images": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=600&fit=crop"
+      ],
+      "layout": "carousel",
+      "animation": "slide-right"
+    }
+  ]
+}
